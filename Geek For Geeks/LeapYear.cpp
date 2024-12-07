@@ -1,3 +1,5 @@
+// GFG Question: Write a program to check if a year is a leap year or not.
+
 #include<iostream>
 using namespace std;
 
