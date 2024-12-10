@@ -11,9 +11,9 @@ int main(){
     while(n>9){
         int ans=0;
         while(n>0){
-            int digit = n%10;
+            int digit = n % 10;
             ans = ans + digit;
-            n = n/10;
+            n = n / 10;
         }
         n = ans;
     }
